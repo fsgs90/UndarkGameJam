@@ -640,7 +640,8 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Standalone: INVECTOR_BASIC
+    Standalone: INVECTOR_BASIC;USE_TWINE
+    WebGL: USE_TWINE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
