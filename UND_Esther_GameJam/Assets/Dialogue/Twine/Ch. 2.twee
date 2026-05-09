@@ -1,0 +1,153 @@
+:: StoryTitle
+Hadassah Ch. 2
+
+
+:: StoryData
+{
+  "ifid": "7B56EABD-1452-4C2B-8D84-3833784EE82C",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "King's address",
+  "zoom": 0.3
+}
+
+
+:: Abagtha {"position":"1825,350","size":"100,100"}
+And it shall be one of my charges who obtaineth the king’s favour.
+[[Carcas]] 
+
+
+:: Abatha {"position":"1175,875","size":"100,100"}
+You stand before those who shape kings.
+[[Tarshish]] 
+
+
+:: Bigtha {"position":"1450,350","size":"100,100"}
+The king’s next decree shall be her end.
+[[Harbona]] 
+
+
+:: Biztha {"position":"1700,350","size":"100,100"}
+Verily, he must needs find another.
+[[Abagtha]] 
+
+
+:: Carcas {"position":"1950,350","size":"100,100"}
+Nay, but it shall be I.
+[[Zethar]] 
+
+
+:: Carshena {"position":"875,875","size":"100,100"}
+A kingdom without order is a feast for chaos.
+[[Shethar]] 
+
+
+:: Eunuch's Response {"position":"925,350","size":"100,100"}
+Eunuchs: Yea oh my King 
+
+[[Queen Vashti's Response]] 
+
+
+:: Harbona {"position":"1575,350","size":"100,100"}
+She shall no more abide in her estate after this deed.
+[[Biztha]] 
+
+
+:: King's address {"position":"800,350","size":"100,100"}
+{Your Text Here}The King: Bring forth my Queen Vashti so the people may gaze upon her beauty and splendor and the Majesty of her crown.
+ 
+ [[Eunuch's Response]] 
+ 
+
+
+:: Marsena {"position":"1625,875","size":"100,100"}
+Delay is the ally of your enemy.
+[[Memucan Optional]] 
+
+
+:: Memucan {"position":"2325,350","size":"100,100"}
+O my lord the king, this deed of the queen is not done against thee only, but also against all the princes and against all the provinces of thy kingdom. For if this thing be suffered, the women shall despise their husbands in their eyes, and there shall arise contempt and wrath. If it please the king, let there go forth a royal decree that Vashti come no more before the king, and let her royal estate be given unto another that is better than she.
+[[The King 3]] 
+
+
+
+:: Memucan Optional {"position":"1775,875","size":"100,100"}
+ What is done in the palace echoes through every home.
+
+
+:: Memucan's response {"position":"1300,350","size":"100,100"}
+Memucan: The Queen's transgression was not just towards you My Lord, but against the princes of every province. For if allowed to stand she may cause revolt within the hearts of all the women turned towards their husbands. If it pleases the King, let there be a decree that Vashti may no longer come before you and that her title shall be given to another.
+[[Bigtha]] 
+
+
+:: Meres {"position":"1475,875","size":"100,100"}
+Loyalty lasts only as long as it profits.
+[[Marsena]] 
+
+
+:: Queen Vashti's Response {"position":"1050,350","size":"100,100"}
+Queen Vashti: Mine king, Mine husband is of drunkenness I refuse to display for our people!
+
+[[Xerxes Response]] 
+
+
+:: Shethar {"position":"1025,875","size":"100,100"}
+The loudest voice in court is rarely the wisest.
+[[Abatha]] 
+
+
+:: Tarshish {"position":"1325,875","size":"100,100"}
+Every conflict is merely a conversation poorly begun.
+[[Meres]] 
+
+
+:: The King {"position":"2200,350","size":"100,100"}
+What shall be done unto Queen Vashti according to the law, forasmuch as she hath not performed the commandment of the king?
+[[Memucan]] 
+
+
+:: The King 3 {"position":"2450,350","size":"100,100"}
+What say ye concerning the transgression of the queen?
+[[The King 4]] 
+
+
+:: The King 4 {"position":"2575,350","size":"100,100"}
+How dare thou speak against the word of the king? Guards, seize this heathen!
+[[The player]] 
+
+
+:: The King 7 {"position":"2950,350","size":"100,100"}
+What say ye concerning the transgression of the queen?
+[[The Player 2]] 
+
+
+:: The Player 2 {"position":"3075,350","size":"100,100"}
+Though it grieveth mine heart in thy sight, O king, Memucan hath spoken rightly: such a transgression may not go unpunished. The queen Vashti must lose her place upon the throne.
+[[The player 3]] 
+
+
+:: The king 6 {"position":"2825,350","size":"100,100"}
+Thou art even as the traitress who hath kindled mine anger; thou shalt share her fate. Depart from my presence forthwith!
+[[The King 7]] 
+
+
+:: The player {"position":"2700,350","size":"100,100"}
+What say ye concerning the transgression of the queen?
+[[The king 6]] 
+
+
+:: The player 3 {"position":"3200,350","size":"100,100"}
+Though it grieveth mine heart in thy sight, O king, Memucan hath spoken rightly: such a transgression may not go unpunished. The queen Vashti must lose her place upon the throne.
+
+
+
+:: Xerxes Response {"position":"1175,350","size":"100,100"}
+The King: What shall we do with Queen Vashti, according to the law, because she did not obey my command?
+
+[[Memucan's response]] 
+
+
+
+:: Zethar {"position":"2075,350","size":"100,100"}
+Hold your peace; for we all know it shall be the silent one.
+[[The King]] 

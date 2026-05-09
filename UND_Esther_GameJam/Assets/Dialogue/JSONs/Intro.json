@@ -1,0 +1,18 @@
+{
+  "passages": [
+    {
+      "text": "I was once called Hadassah—unknown, unseen. Yet I was taken into the king’s house… and made queen. A crown upon my head, yet fear within my heart.\nI concealed my kindred and my people, dwelling in quietness, unsure of mine own place, ever beholding, and ever in fear.\n\nThen went there forth a decree, that my people should be utterly destroyed. Fear gat hold upon me, for I alone stood near unto the throne; yet might I not draw nigh unto the king, except I should adventure my life.\n\nI tarried in my spirit. I was of a doubtful heart. I feared the silence, and the distance, and the great price of the way.\n\nNevertheless, a word moved within my soul—what if I were set in this place for this very hour?\n\nTherefore I purposed to go in, though I trembled; I stepped forth into peril, trusting that I was not forgotten of the Most High. The God of mine people\nThe Queen: “Who knoweth whether thou art come to the kingdom for such a time as this?” — Esther 4:14",
+      "name": "Intro Cutscene",
+      "pid": "1",
+      "position": {
+        "x": "475",
+        "y": "300"
+      }
+    }
+  ],
+  "name": "Hadassah Intro Cutscene",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.12.0",
+  "ifid": "84383378-4EE8-4CEF-8F55-DC614BB31400"
+}
